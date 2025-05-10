@@ -16,7 +16,7 @@ public class VeiculoView implements IView {
     @Override
     public void exibirMenu() {
             System.out.println("\nMenu:");
-            System.out.println("1. Cadastrar Veículo");
+            System.out.println("1. Cadastrar Veículo!");
             System.out.println("2. Exibir Veículo");
             System.out.println("3. Sair");
             System.out.print("Escolha uma opção: ");
